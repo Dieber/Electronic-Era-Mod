@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "electronera:blocks/electron_crystal_ore"
+        
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "electronera",
+  "name": "Electron Era",
+  "description": "a Mystery Force which can connect to Virtual World ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/",
+  "updateUrl": "https://github.com/",
+  "authorList": ["Dieber"],
+  "credits": "Notch, Cpw, etc.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
